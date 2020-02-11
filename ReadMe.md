@@ -8,7 +8,7 @@
 ## Homework Week 2
 * [sketch1](https://jameswcastro.github.io/PUFY1225-Digital_Craft/Template/index.html) 
 * [sketch2](https://jameswcastro.github.io/PUFY1225-Digital_Craft/RandomLines/index.html.html)
-* [sketch3]()
+* [sketch3](https://jameswcastro.github.io/PUFY1225-Digital_Craft/BoomerangLine/index.html.html)
 
 ## Homework Week 3
 * [sketch1](https://jameswcastro.github.io/PUFY1225-Digital_Craft/HorizontalScanner/index.html.html) 
