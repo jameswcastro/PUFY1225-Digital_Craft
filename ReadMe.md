@@ -13,4 +13,4 @@
 ## Homework Week 3
 * [sketch1]() 
 * [sketch2]()
-* [sketch3]()
+* [sketch3](https://jameswcastro.github.io/PUFY1225-Digital_Craft/2DMapGenerator/index.html.html)
