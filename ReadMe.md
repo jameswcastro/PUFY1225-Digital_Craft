@@ -12,5 +12,5 @@
 
 ## Homework Week 3
 * [sketch1]() 
-* [sketch2]()
+* [sketch2](https://jameswcastro.github.io/PUFY1225-Digital_Craft/TilePattern/index.html.html)
 * [sketch3](https://jameswcastro.github.io/PUFY1225-Digital_Craft/2DMapGenerator/index.html.html)
