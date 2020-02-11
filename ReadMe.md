@@ -1,5 +1,7 @@
 # Digital Craft Spring '20
 
+//![alternate text](web address)
+
 ## Homework Week 1
 * [blogentry](https://portfolio.newschool.edu/jamescastro/2020/01/27/week1-hw-openprocessingreflection/)
 
