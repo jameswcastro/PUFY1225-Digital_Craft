@@ -16,4 +16,4 @@
 * [sketch3](https://jameswcastro.github.io/PUFY1225-Digital_Craft/2DMapGenerator/index.html.html)
 
 ## Generative Laser Cut Project
-*[sketch1(Not SVG Compatible Yet)](https://jameswcastro.github.io/PUFY1225-Digital_Craft/3DTerrainGenerator/index.html)
+*[lasercutproject](https://jameswcastro.github.io/PUFY1225-Digital_Craft/3DTerrainGenerator/index.html)
