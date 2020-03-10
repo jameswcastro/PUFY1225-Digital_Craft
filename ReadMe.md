@@ -18,5 +18,8 @@
 ## Generative Laser Cut Project
 *[lasercutproject](https://jameswcastro.github.io/PUFY1225-Digital_Craft/3DTerrainGenerator/index.html)
 
-## Homework Week 4 or 5 or something
+## Homework Week 4
 *[countdowntimer](https://jameswcastro.github.io/PUFY1225-Digital_Craft/CountdownProgram/index.html)
+
+## Homework Week 5
+*[3dimporthomework](http://127.0.0.1:8887/ImportMushroom/)
