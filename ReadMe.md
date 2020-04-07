@@ -25,4 +25,4 @@
 *[3dimporthomework](https://jameswcastro.github.io/PUFY1225-Digital_Craft/ImportMushroom/index.html)
 
 ## Homework Week 9
-*[fritzinghomework]()
+*[fritzinghomework](https://github.com/jameswcastro/PUFY1225-Digital_Craft/tree/master/LEDMicrocontroller)
