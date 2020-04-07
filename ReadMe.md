@@ -21,5 +21,8 @@
 ## Homework Week 4
 *[countdowntimer](https://jameswcastro.github.io/PUFY1225-Digital_Craft/CountdownProgram/index.html)
 
-## Homework Week 5
+## Homework Week 7
 *[3dimporthomework](https://jameswcastro.github.io/PUFY1225-Digital_Craft/ImportMushroom/index.html)
+
+## Homework Week 9
+*[fritzinghomework]()
