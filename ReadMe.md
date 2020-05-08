@@ -28,5 +28,5 @@
 *[fritzinghomework](https://github.com/jameswcastro/PUFY1225-Digital_Craft/tree/master/LEDMicrocontroller)
 
 ## Other
-*[studioprojectfinal](https://jameswcastro.github.io/PUFY1225-Digital_Craft/StudioProjectFinal/index.html)
+*[studioprojectfinal](https://jameswcastro.github.io/PUFY1225-Digital_Craft/StudioProjectFinal/)
 
