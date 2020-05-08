@@ -7,7 +7,7 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(400,400,WEBGL);
+    createCanvas(windowWidth,windowHeight,WEBGL);
     for (let i = 0; i < 2; i++) {
     mushrooms.push(new Cap());
     //mushrooms.push(new Stem());
